@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello 👋, I'm Nghia
+## A random guy who is trying to bring miracles to the world
+
+- 🔭 I’m currently working on Software Engineering (Web Application)
+- 🌱 I’m currently learning Mobile App Development
+- 🤔 I’m looking for help with Machine Learning
+
+- 📫 How to reach me: nghia922841@gmail.com
 
 <!--
 **nghiado06082003/nghiado06082003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
